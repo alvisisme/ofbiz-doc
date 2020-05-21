@@ -1,0 +1,24 @@
+{
+    "root": "doc",
+    "title": "Apache OFBiz 参考文档",
+    "author": "Alvis Zhao",
+    "language": "zh-hans",
+    "plugins": [
+        "-sharing",
+        "yahei"
+    ],
+    "pluginsConfig": {
+        "pdf": {
+            "toc": true,
+            "pageNumbers": true,
+            "fontSize": 18,
+            "paperSize": "a4",
+            "margin": {
+                "right": 30,
+                "left": 30,
+                "top": 30,
+                "bottom": 50
+            }
+        }
+    }
+}
