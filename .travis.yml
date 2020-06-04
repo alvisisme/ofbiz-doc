@@ -16,6 +16,7 @@ before_install:
   - sudo apt-get -y install curl calibre
   - npm install -g gitbook-cli
   - gitbook fetch 3.2.3
+  - gitbook install
 
 script:
   - gitbook build
